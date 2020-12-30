@@ -1,7 +1,7 @@
 ### Q 1 - Composition represents
 
 A
-![HAS-A](JavaExam-Questions/1.jpg)
+![HAS-A](https://github.com/Sslnon/images/blob/main/JavaExam-Questions/1.jpg)
 
 
 ### Q 2 - What kind of variables a class can consist of?
