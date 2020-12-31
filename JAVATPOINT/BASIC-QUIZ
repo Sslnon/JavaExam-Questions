@@ -1,6 +1,12 @@
 ### Choose the appropriate data type for this field: isSwimmer
 boolean
-
 > 正确理解题意
+
 ###  A UML Association is
 implemented as a Java attribute member
+
+### Following code will result in: int num = 6.7;
+Compilation error
+
+### There is no structure and union in java
+True
